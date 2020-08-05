@@ -1,0 +1,10 @@
+ h1{color: red;}
+h1{font-size: 4rem;
+ }
+p{color:black;}
+p{font-size: 2rem;}
+
+@media (max-width: 600px) 
+{h1{font-size: 2rem;}
+p{font-size: 4rem;}}
+
